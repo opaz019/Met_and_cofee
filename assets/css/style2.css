@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    color: #000f08;
+    }
+
+h2 {
+    text-align: center;
+    color: blue;
+    }
+.verde 
+{
+color: green;
+}
+
+.centrado {
+    text-align: center;
+    }
+
+#subtitulo {
+    text-align: right;
+    color: white;
+        }  
+        
+        
+.oscuro {
+background: #000f08;
+color: #ffffff;
+} 
+
+.oscuro a{
+    color: #ffffff;
+    text-decoration: none;
+    }
